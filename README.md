@@ -4,7 +4,7 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
+<img width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
           
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
