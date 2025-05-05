@@ -4,7 +4,7 @@
 
 🎓Bacharela em Administração - UNICSUL
 
-📊Iniciante na área de Ciência de Dados, desenvolvendo habilidades de programação e também em ferramentas como SQL, Power BI e Python.
+📊Iniciante na área de Ciência de Dados, desenvolvendo habilidades de programação e também em ferramentas como Python, SQL e Power BI.
 
 💡Tenho um grande interesse em transformar dados em insights valiosos para ajudar na tomada de decisões estratégicas e melhorar os processos. 
 
