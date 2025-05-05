@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120§ion=header"/> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Larissa+Medeiros;Sou+estudante+de+Ciência+de+Dados;Seja+Bem-vindo(a)!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Larissa+Medeiros.;Sou+estudante+de+Ciência+de+Dados+na+EBAC.;Seja+Bem-vindo(a)!)
 
 🎓Bacharela em Administração - UNICSUL
 
